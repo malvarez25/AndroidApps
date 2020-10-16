@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tipobienvenido">WILLKOMMEN</string>
+    <string name="vhorizonta">Betreten</string>
+
+
+</resources>
