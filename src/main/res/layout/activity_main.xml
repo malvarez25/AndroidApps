@@ -21,9 +21,9 @@
     </com.google.android.material.appbar.AppBarLayout>
 
     <include
-        android:id="@+id/include"
         layout="@layout/content_main"
-        android:layout_height="wrap_content" />
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
@@ -39,6 +39,6 @@
         android:layout_height="587dp"
         app:layout_anchor="@+id/include"
         app:layout_anchorGravity="center"
-        app:srcCompat="@drawable/Android" />
+        app:srcCompat="@drawable/android" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
